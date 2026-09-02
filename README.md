@@ -1,4 +1,7 @@
 ## Hola Mundo
+Me gsuta el fútbol
+Futuro ingeniero en informática
+21 años
 
 <!--
 **David00122026/David00122026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
